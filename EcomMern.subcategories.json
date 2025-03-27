@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6658352ef4274a37aace9fd0"
+  },
+  "name": "Trouser",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\subcategory\\1733029441297trouser.jpg"
+},
+{
+  "_id": {
+    "$oid": "66583533f4274a37aace9fd5"
+  },
+  "name": "Shirt",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\subcategory\\1733029448298shirt.jpg"
+},
+{
+  "_id": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "name": "Tshirt",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\subcategory\\1733029455864tshirt.jpg"
+},
+{
+  "_id": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "name": "Jeans",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\subcategory\\1733029461972jeans.jpg"
+}]

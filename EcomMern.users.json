@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "67cc24ffaa99ba8ff9f9dab4"
+  },
+  "name": "Bihari Kumar Rawat",
+  "username": "bihari",
+  "email": "biharikumarrawat123@gmail.com",
+  "phone": "9262645718",
+  "password": "$2b$12$xn1s/dlkMY8p.cSBM5jkHu7/dPblnHdkvFitWYXu4.x4yznS9fC0q",
+  "address": "Tola Sipahiya\r\nSipaya Form Musahari Tola",
+  "pin": "841501",
+  "city": "Gopalganj ",
+  "state": "Bihar",
+  "otp": "987109",
+  "pic": "public\\uploads\\user\\1741539658767photo (2).jpeg",
+  "active": true,
+  "__v": 0,
+  "role": "Admin"
+},
+{
+  "_id": {
+    "$oid": "67cdc7fda8ee8fc1271706d0"
+  },
+  "name": "Sameer Kumar",
+  "username": "sameer",
+  "email": "sameerkumar123@gmail.com",
+  "phone": "7033302112",
+  "password": "$2b$12$gdVeBYFlopARFyko9zuKduXMVRCuNDBRWGqOupoaVKc38gzt4TYFK",
+  "address": "Tola Sipahiya\r\nSipaya Form Musahari Tola",
+  "pin": "841501",
+  "city": "Gopalganj ",
+  "state": "Bihar",
+  "otp": "-234567",
+  "pic": "public\\uploads\\user\\1741539367632bihari-mall.JPG",
+  "active": true,
+  "__v": 0,
+  "role": "Super Admin"
+},
+{
+  "_id": {
+    "$oid": "67e444cdbe9287e853928106"
+  },
+  "name": "Bablu Kumar",
+  "username": "bablu",
+  "email": "bablu123@gmail.com",
+  "phone": "9122647445",
+  "password": "$2b$12$e2Gml6z615mJJTQIzwnflush1dduRpsWOcA6U.YY8.LOIcPObDd8W",
+  "role": "Admin",
+  "address": "",
+  "pin": "",
+  "city": "",
+  "state": "",
+  "otp": "-234567",
+  "pic": "",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e4b7e93996d996a0b314cc"
+  },
+  "name": "Suraj Kumar",
+  "username": "suraj",
+  "email": "suraj123@gmail.com",
+  "phone": "9631005550",
+  "password": "$2b$12$MKYLWYre1un9aCLBE4bBYOmw4ZDJnN3KVIHvM.kbF0uoh/mRPe5NS",
+  "role": "Super Admin",
+  "address": "",
+  "pin": "",
+  "city": "",
+  "state": "",
+  "otp": "-234567",
+  "pic": "",
+  "active": true,
+  "__v": 0
+}]

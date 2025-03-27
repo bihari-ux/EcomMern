@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6658314cf4274a37aace9f7e"
+  },
+  "name": "Kids",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\maincategory\\1733029333246kids.jpg"
+},
+{
+  "_id": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "name": "Female",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\maincategory\\1733029341139female.jpg"
+},
+{
+  "_id": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "name": "Male",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\maincategory\\1733029311507male.jpg"
+},
+{
+  "_id": {
+    "$oid": "674bed61cfabcaa3b62016a5"
+  },
+  "name": "Electronics",
+  "active": true,
+  "pic": "public\\uploads\\maincategory\\1733029217516electronics.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e2ef9eba931fa0a4d5d3c2"
+  },
+  "name": "Kidz",
+  "active": true,
+  "pic": "public\\uploads\\maincategory\\1742925726545banner4.jpg",
+  "__v": 0
+}]

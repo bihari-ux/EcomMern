@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "67e4b80a3996d996a0b314f1"
+  },
+  "user": {
+    "$oid": "67cdc7fda8ee8fc1271706d0"
+  },
+  "product": {
+    "$oid": "6660182ea94295cf3e05934c"
+  },
+  "qty": 2,
+  "total": 1184,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e4b81c3996d996a0b31531"
+  },
+  "user": {
+    "$oid": "67cdc7fda8ee8fc1271706d0"
+  },
+  "product": {
+    "$oid": "67e2f10aba931fa0a4d5d3fd"
+  },
+  "qty": 1,
+  "total": 264,
+  "__v": 0
+}]

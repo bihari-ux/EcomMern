@@ -1,0 +1,344 @@
+[{
+  "_id": {
+    "$oid": "67bd5e153e2251a4645aa8ae"
+  },
+  "user": {
+    "$oid": "67b5715a763f21a74554a21c"
+  },
+  "orderStatus": "Delivered",
+  "paymentMode": "Net Banking",
+  "paymentStatus": "Done",
+  "subtotal": 21000,
+  "shipping": 0,
+  "total": 21000,
+  "rppid": "pay_Q0EkQUhtNScbKA",
+  "products": [
+    {
+      "_id": "67bd5d803e2251a4645aa80c",
+      "user": {
+        "_id": "67b5715a763f21a74554a21c",
+        "name": "Nitin Chauhan",
+        "username": "nitin"
+      },
+      "product": {
+        "_id": "66601858a94295cf3e059366",
+        "name": "Male Tshirt Tommy Hilfiger",
+        "brand": {
+          "name": "Tommy Hilfiger"
+        },
+        "color": "White",
+        "size": "M",
+        "finalPrice": 1500,
+        "stockQuantity": 20,
+        "pic": [
+          "public\\uploads\\product\\171766047091471EXBIPOaaL._AC_UY1000_.jpg"
+        ]
+      },
+      "qty": 5,
+      "total": 7500,
+      "__v": 0
+    },
+    {
+      "_id": "67bd5d733e2251a4645aa7c0",
+      "user": {
+        "_id": "67b5715a763f21a74554a21c",
+        "name": "Nitin Chauhan",
+        "username": "nitin"
+      },
+      "product": {
+        "_id": "6668096ade7316c1291ee496",
+        "name": "Kids Jeans Slim Fit",
+        "brand": {
+          "name": "Puma"
+        },
+        "color": "Black",
+        "size": "36",
+        "finalPrice": 3375,
+        "stockQuantity": 44,
+        "pic": [
+          "public\\uploads\\product\\1718094186389download (17).jpg"
+        ]
+      },
+      "qty": 4,
+      "total": 13500,
+      "__v": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-25T06:07:17.648Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T06:16:50.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67beb0fcbcd844ec7354913f"
+  },
+  "user": {
+    "$oid": "67b5715a763f21a74554a21c"
+  },
+  "orderStatus": "Order is Reached to the Final Delivery Station",
+  "paymentMode": "Net Banking",
+  "paymentStatus": "Pending",
+  "subtotal": 5850,
+  "shipping": 0,
+  "total": 5850,
+  "rppid": "",
+  "products": [
+    {
+      "_id": "67bd606e42e2436a11761f23",
+      "user": {
+        "_id": "67b5715a763f21a74554a21c",
+        "name": "Nitin Chauhan",
+        "username": "nitin"
+      },
+      "product": {
+        "_id": "6660172f7679cfb24c3c2a3e",
+        "name": "Male Tshirt Adidas",
+        "brand": {
+          "name": "Adidas"
+        },
+        "color": "Red",
+        "size": "XL",
+        "finalPrice": 2475,
+        "stockQuantity": 18,
+        "pic": [
+          "public\\uploads\\product\\171757532477571EXBIPOaaL._AC_UY1000_.jpg"
+        ]
+      },
+      "qty": 1,
+      "total": 2475,
+      "__v": 0
+    },
+    {
+      "_id": "67bd5f493e2251a4645aa9b0",
+      "user": {
+        "_id": "67b5715a763f21a74554a21c",
+        "name": "Nitin Chauhan",
+        "username": "nitin"
+      },
+      "product": {
+        "_id": "6668096ade7316c1291ee496",
+        "name": "Kids Jeans Slim Fit",
+        "brand": {
+          "name": "Puma"
+        },
+        "color": "Black",
+        "size": "36",
+        "finalPrice": 3375,
+        "stockQuantity": 44,
+        "pic": [
+          "public\\uploads\\product\\1718094186389download (17).jpg"
+        ]
+      },
+      "qty": 1,
+      "total": 3375,
+      "__v": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-26T06:13:16.876Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T06:23:31.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67beb2d8bcd844ec73549254"
+  },
+  "user": {
+    "$oid": "67b57214763f21a74554a228"
+  },
+  "orderStatus": "Order is Placed",
+  "paymentMode": "Net Banking",
+  "paymentStatus": "Done",
+  "subtotal": 684,
+  "shipping": 150,
+  "total": 834,
+  "rppid": "pay_Q0EqKzvn43qOwJ",
+  "products": [
+    {
+      "_id": "67beb2cfbcd844ec73549228",
+      "user": {
+        "_id": "67b57214763f21a74554a228",
+        "name": "Satish Chauhan",
+        "username": "satish"
+      },
+      "product": {
+        "_id": "66601852a94295cf3e059360",
+        "name": "Female Jeans Regular Fit",
+        "brand": {
+          "name": "Cobb"
+        },
+        "color": "Black",
+        "size": "36",
+        "finalPrice": 684,
+        "stockQuantity": 20,
+        "pic": [
+          "public\\uploads\\product\\1717660182472286df0e6-5791-4393-81e0-1a7d7e3571561599456724282-SASSAFRAS-Women-Blue-Regular-Fit-Mid-Rise-Clean-Look-Stretch-1.webp"
+        ]
+      },
+      "qty": 1,
+      "total": 684,
+      "__v": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-26T06:21:12.754Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T06:22:19.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cdbef8a8ee8fc127170638"
+  },
+  "user": {
+    "$oid": "67cc24ffaa99ba8ff9f9dab4"
+  },
+  "orderStatus": "Order is Placed",
+  "paymentMode": "COD",
+  "paymentStatus": "Pending",
+  "subtotal": 2475,
+  "shipping": 0,
+  "total": 2475,
+  "rppid": "",
+  "products": [
+    {
+      "_id": "67cdbef3a8ee8fc12717060c",
+      "user": {
+        "_id": "67cc24ffaa99ba8ff9f9dab4",
+        "name": "Bihari Kumar Rawat",
+        "username": "bihari"
+      },
+      "product": {
+        "_id": "6660172f7679cfb24c3c2a3e",
+        "name": "Male Tshirt Adidas",
+        "brand": {
+          "name": "Adidas"
+        },
+        "color": "Red",
+        "size": "XL",
+        "finalPrice": 2475,
+        "stockQuantity": 18,
+        "pic": [
+          "public\\uploads\\product\\171757532477571EXBIPOaaL._AC_UY1000_.jpg"
+        ]
+      },
+      "qty": 1,
+      "total": 2475,
+      "__v": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-09T16:16:56.141Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-09T16:16:56.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cdc222a8ee8fc1271706b4"
+  },
+  "user": {
+    "$oid": "67cc24ffaa99ba8ff9f9dab4"
+  },
+  "orderStatus": "Order is Placed",
+  "paymentMode": "Net Banking",
+  "paymentStatus": "Done",
+  "subtotal": 6750,
+  "shipping": 0,
+  "total": 6750,
+  "rppid": "pay_QBJE4AG9gQuXsH",
+  "products": [
+    {
+      "_id": "67cdc216a8ee8fc127170682",
+      "user": {
+        "_id": "67cc24ffaa99ba8ff9f9dab4",
+        "name": "Bihari Kumar Rawat",
+        "username": "bihari"
+      },
+      "product": {
+        "_id": "6668096ade7316c1291ee496",
+        "name": "Kids Jeans Slim Fit",
+        "brand": {
+          "name": "Puma"
+        },
+        "color": "Black",
+        "size": "36",
+        "finalPrice": 3375,
+        "stockQuantity": 44,
+        "pic": [
+          "public\\uploads\\product\\1718094186389download (17).jpg"
+        ]
+      },
+      "qty": 2,
+      "total": 6750,
+      "__v": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-09T16:30:26.964Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-26T05:48:35.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e394eebefbb0e2af7c29b3"
+  },
+  "user": {
+    "$oid": "67cc24ffaa99ba8ff9f9dab4"
+  },
+  "orderStatus": "Order is Placed",
+  "paymentMode": "Net Banking",
+  "paymentStatus": "Pending",
+  "subtotal": 450,
+  "shipping": 150,
+  "total": 600,
+  "rppid": "",
+  "products": [
+    {
+      "_id": "67e394e0befbb0e2af7c2979",
+      "user": {
+        "_id": "67cc24ffaa99ba8ff9f9dab4",
+        "name": "Bihari Kumar Rawat",
+        "username": "bihari"
+      },
+      "product": {
+        "_id": "66601858a94295cf3e059364",
+        "name": "Female Tshirt Regular Fit",
+        "brand": {
+          "name": "Us Polo"
+        },
+        "color": "Black",
+        "size": "M",
+        "finalPrice": 225,
+        "stockQuantity": 3,
+        "pic": [
+          "public\\uploads\\product\\1717660384858download (12).jpg"
+        ]
+      },
+      "qty": 2,
+      "total": 450,
+      "__v": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-26T05:47:26.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-26T05:47:26.866Z"
+  },
+  "__v": 0
+}]

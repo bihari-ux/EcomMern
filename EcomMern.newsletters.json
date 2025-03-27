@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67b56fc7763f21a74554a20c"
+  },
+  "email": "vishankchauhan@gmail.com",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b5701e763f21a74554a214"
+  },
+  "email": "vishankchauhan1@gmail.com",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bc0c885bcc905735718b01"
+  },
+  "email": "vishankchauhan2@gmail.com",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cdc1fca8ee8fc12717065a"
+  },
+  "email": "biharikumarrawat123@gmail.com",
+  "active": true,
+  "__v": 0
+}]

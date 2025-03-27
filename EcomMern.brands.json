@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "66583744f4274a37aacea037"
+  },
+  "name": "Tommy Hilfiger",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057348826tommy-hilfiger.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66583757f4274a37aacea044"
+  },
+  "name": "NIke",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057367199nike.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6658375ef4274a37aacea04a"
+  },
+  "name": "Puma",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057374589puma.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66583765f4274a37aacea04e"
+  },
+  "name": "Gucci",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057381014gucci.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66583770f4274a37aacea053"
+  },
+  "name": "Zara",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057392142zara.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6658377cf4274a37aacea059"
+  },
+  "name": "Us Polo",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057404930U.S.-Polo-Assn-Logo.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66583785f4274a37aacea05f"
+  },
+  "name": "Cobb",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057413170images (1).png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66583791f4274a37aacea066"
+  },
+  "name": "Mufti",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057425184mufti.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e2f075ba931fa0a4d5d3e0"
+  },
+  "name": "Adidas",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1742925941352adidas.png",
+  "__v": 0
+}]
